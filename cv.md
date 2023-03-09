@@ -25,7 +25,7 @@
     * I like to solve problems
     * Eager to become a good programmer
 
- ## My education
+## My education
   I've been studying on Dmitry Valok's online-corse [here](https://brainscloud.ru/landing/html-css)
 
   JavaScript Manual on learnjavascript.ru (in progress)
@@ -43,7 +43,7 @@
 
       [<img src="img/groking.jfif" alt="algorithms" width="150">](https://www.oreilly.com/library/view/grokking-algorithms/9781617292231/)
 
- ## Languages I use
+## Languages I use
     I freely speak 3 languages: Russian (native), Belarussian (native), English (B2).
 
 ##  What I know for now:
